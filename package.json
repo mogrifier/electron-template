@@ -22,7 +22,7 @@
     "synthesizer"
   ],
   "author": "Erich Izdepski",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mogrifier/electron-template/issues"
   },
