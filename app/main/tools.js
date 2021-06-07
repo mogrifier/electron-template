@@ -1,5 +1,4 @@
 const fs = require("fs");
-const esprima = require("esprima");
 
 
 function executeFunctionByName(functionName, context /*, args */) {
@@ -31,17 +30,3 @@ function write_image() {
 
 }
 
-
-{
-let file = fs.readFileSync("./a.js", "utf8");
-
-let tree = esprima.parseScript(file);
-tree.body.forEach((el) => {
-    if (el.type == "VariableDeclaration") {
-        // console.log(el);
-        console.log(el.declarations);
-        console.log(el.declarations[0].id);
-        console.log(el.declarations[0].id.name);
-    }
-});
-}
