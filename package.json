@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mogrifier/wavsyn.git"
+    "url": "git+https://github.com/mogrifier/electron-template.git"
   },
   "keywords": [
     "mirage",
@@ -24,9 +24,9 @@
   "author": "Erich Izdepski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mogrifier/wavsyn/issues"
+    "url": "https://github.com/mogrifier/electron-template/issues"
   },
-  "homepage": "https://github.com/mogrifier/wavsyn#readme",
+  "homepage": "https://github.com/mogrifier/electron-template#readme",
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.57",
     "@electron-forge/maker-deb": "^6.0.0-beta.57",
@@ -41,8 +41,10 @@
     "jest": "^27.0.3"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "electron-squirrel-startup": "^1.0.0",
-    "esprima": "^4.0.1"
+    "esprima": "^4.0.1",
+    "save-dev": "^0.0.1-security"
   },
   "config": {
     "forge": {
