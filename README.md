@@ -1,6 +1,7 @@
 Electron Project Template
 =================
-This is an Electron project template. You can clone and use under the MIT license. There is a tiny bit of code just to show some simple working concepts you need in Electron applications. The template helps with:
+This is an Electron project template. You can clone and use under the MIT license. There is a tiny bit of code just to show some simple working concepts you need in Electron applications. Details here: https://eizdepski.medium.com/electron-desktop-app-template-14c5e9c40b1e
+The template helps with:
 * electron project structure
 * using npm to run commands
 * unit testing
