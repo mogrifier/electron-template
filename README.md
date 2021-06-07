@@ -9,7 +9,7 @@ This is an Electron project template. You can clone and use under the MIT licens
 * building deployment artifacts
 * publishing your app
 
-You will have to ensure you install the Node JS Modules needed to run this. Also, the package.json file "publishers" under forge config is set to publish to MY repo. That will not work for you, so change it and set up your access token to allow publishing the project releases to YOUR repo. 
+You will have to ensure you install the Node JS Modules needed to run this. Also, the package.json file "publishers" under forge config is set to publish to MY repo. That will not work for you, so change it and set up your access token to allow publishing the project releases to YOUR repo. There are several other changes to make to package.json to make things point to your repo, your project name, links to your proect, new keywords, etc.
 
 
 Install commands needed
