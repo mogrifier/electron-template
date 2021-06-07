@@ -32,5 +32,6 @@ Life-cycle commands
 * npm run lint
 * npm run publish
 
+I am using code from this repo https://github.com/reZach/secure-electron-template to establish secure IPC communications, rather than exposing everything in node from your renderer process.
 
 Thanks!
