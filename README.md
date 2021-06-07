@@ -1,4 +1,4 @@
-Wavsyn
+Electron Project Template
 =================
 This is an Electron project template. You can clone and use under the MIT license. There is a tiny bit of code just to show some simple working concepts you need in Electron applications. the template helps with:
 * electron project structure
