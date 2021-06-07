@@ -19,7 +19,9 @@
     "mirage",
     "ensoniq",
     "wavetable",
-    "synthesizer"
+    "synthesizer",
+    "electron",
+    "node js"
   ],
   "author": "Erich Izdepski",
   "license": "MIT",
