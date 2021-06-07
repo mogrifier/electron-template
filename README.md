@@ -1,3 +1,10 @@
-Wavsyn
+Electron Project Template
 =================
-This is an Electron app. It is a port of proof of concept python code (from my MirageDiskTools project) for creating disk images for the Ensoniq Mirage.
+This is an Electron project template. You can clone and use under the MIT license. There is a tiny bit of code just to show some simple working concepts you need in Electron applications. The template helps with:
+* electron project structure
+* using npm to run commands
+* unit testing
+* code coverage
+* lint checks
+* building deployment artifacts
+* publishing your app
